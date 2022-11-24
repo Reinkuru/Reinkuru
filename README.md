@@ -1,91 +1,57 @@
-<h1 align="center">Hi 👋, I'm Rai</h1>
-<h3 align="center">A passionate software developer from Telkom Purwokerto Institute of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+<h1>Hi There, I am <a  href="https://techytushar.github.io/">Tushar Mittal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-```sh
-var developements = {
-    "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "PHP" ] ,
-        "Frameworks" : [ "Codeigniter 3/4", "MySQL", "Bootstrap", "Tailwind CSS" ]
-    }
-}
-```
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
+I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh Technical University** in **Computer Science** stream. My day to day work revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
 
+## Skill Set :muscle:
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/Reinkuru?tab=repositories](https://github.com/Reinkuru?tab=repositories)
+These are some of the major technologies that I use or have worked on in the past:
 
-- 📫 How to reach me, drop an email at **haayraii@gmail.com**
-- My CV website: https://r-glasses.my.id
-- 5⭐[codechef handle](https://www.codechef.com/users/hehehehhehhe20)
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
-## 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+**Programming Languages**
 
-##
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
-            alt="bootstrap studio" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
+**Libraries and Frameworks**
 
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+|--|--|--|--|--|
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
-</p> 
+**Cloud**
 
-## 
+<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+|--|--|
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+**Databases**
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
-    </a>
-      <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb"/>
-    </a>
-  </div>  
-</p>
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
+|--|--|--|
 
-## 
+**Tools**
 
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
-</div>
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|--|--|--|--|--|
+<br>
 
-##
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/rhnakrai" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/raihanfebriyansah/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
-</p>
+## Some of my stats :bar_chart:
 
-------
-Credit: [Kururu-2022](https://github.com/Reinkuru)
-Last Edited on: 24-11-2022
+<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
+
+<br>
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/techy_tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/tusharmit"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:chiragmittal.mittal@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/techy.tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|--|--|--|--|--|
+
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+
+-----
+Credits: [Tushar Mittal](https://github.com/techytushar)
+
+Last Edited on: 30/11/2020
